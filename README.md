@@ -38,8 +38,8 @@ Este é um projeto desenvolvido como prática das aulas do Chapter I da trilha R
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/rafaelramosdev/watch-me
-$ cd watch-me
+$ git clone https://github.com/rafaelramosdev/watchme
+$ cd watchme
 ```
 
 Para iniciá-lo, siga os passos abaixo:
