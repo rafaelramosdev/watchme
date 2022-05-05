@@ -23,6 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React](https://reactjs.org)
 - [Babel](https://babeljs.io/)
 - [Webpack](https://webpack.js.org/)
+- [JSON Server](https://github.com/typicode/json-server)
 - [Sass](https://sass-lang.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 
